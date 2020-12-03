@@ -46,8 +46,6 @@ df <- df %>%
 #mutate(ageYear5 = cut(ageYear, breaks=seq(0,100, by=5),  include.lowest =T))%>%
 # mutate(age_gp = cut(ageYear, breaks=seq(0,100, by=10),  include.lowest =T))
 
-
-
 ##### 2- EAVE II Colours #####
 eave_green <- rgb(54, 176, 136, maxColorValue = 255)
 eave_blue <- rgb(71,93,167, maxColorValue = 255)
