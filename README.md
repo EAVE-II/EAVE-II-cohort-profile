@@ -1,10 +1,10 @@
 # EAVE II Analysis Repository
-## EAVE II Cohort Profile
+## Cohort profile: Early pandemic evaluation and enhanced surveillance of COVID-19 (EAVE II) database
 
 ### Paper Details
 > **Short title:** EAVE II Cohort Profile
 >
->**DOI:** [Insert DOI of paper here]
+>**DOI:** https://doi.org/10.1093/ije/dyab028
 >
 >**Paper authors:** Mulholland R.H, Vasileiou E, Simpson C.R, Roberston C, Ritchie L.D, Agrawal U et al.
 >
